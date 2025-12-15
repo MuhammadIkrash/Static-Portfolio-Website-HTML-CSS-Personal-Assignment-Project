@@ -7,7 +7,8 @@ The purpose of this assignment is to demonstrate strong fundamentals in structur
 
 ## 📸 Project Preview
 
-![Capture](https://github.com/user-attachments/assets/505ab45b-e90e-4634-9f5f-8dc01cfbdda8)
+![Capture](https://github.com/user-attachments/assets/d63a91f7-a5d3-4e8a-bc43-6b139c9c3330)
+
 ![as](https://github.com/user-attachments/assets/1ac748ed-5358-4ff2-843c-647f3b5bb571)
 ![v](https://github.com/user-attachments/assets/3e8fbf8f-ed57-4b12-830e-12fb32ef8ec0)
 
